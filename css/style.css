@@ -6,3 +6,51 @@
     padding: 0;
 }
 
+
+/* Boxes */
+
+.shoe_box{
+    height: 100vh;
+    position: relative;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 3vw;
+}
+
+.red {
+    background-color: red;
+    color: yellow;
+}
+
+.green {
+    background-color: green;
+    color: yellow;
+}
+
+.yellow {
+    background-color: yellow;
+    color: green;
+}
+
+/* Images Position*/
+
+.shoe_image{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+    display: block;
+}
+
+/* Texts Position*/
+
+.slogan{
+    text-align: center;
+    width: auto;
+    margin: auto;
+    
+
+
+
+
+
+
